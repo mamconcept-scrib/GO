@@ -1,5 +1,5 @@
 /* SCRIB MedNet Go — service worker (cache-first app shell) */
-var CACHE = "mednet-go-v1.5";
+var CACHE = "mednet-go-v1.6";
 var ASSETS = [
   "./",
   "./index.html",
